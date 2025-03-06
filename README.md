@@ -39,6 +39,32 @@ This project is an **OpenCV-based application** that uses a laptop's camera to *
 ## Contributing
 Contributions are welcome! Feel free to **fork the repository**, create a new branch, and submit a **pull request**. For major changes, please open an issue first to discuss your ideas.
 
+### Contribution Guidelines
+1. **Fork the repository**:
+   ```sh
+   git fork https://github.com/mohitkumhar/age-gender-prediction.git
+   ```
+2. **Clone your forked repository**:
+   ```sh
+   git clone https://github.com/your-username/age-gender-prediction.git
+   cd age-gender-prediction
+   ```
+3. **Create a new branch** for your changes:
+   ```sh
+   git checkout -b feature-branch-name
+   ```
+4. **Make your changes**, then add and commit them:
+   ```sh
+   git add .
+   git commit -m "Your commit message"
+   ```
+5. **Push your changes** to your fork:
+   ```sh
+   git push origin feature-branch-name
+   ```
+6. **Create a pull request** on GitHub.
+7. Wait for review and feedback before merging.
+
 ## Connect with Me
 - **GitHub**: [mohitkumhar](https://github.com/mohitkumhar/)
 - **LinkedIn**: [mohitkumhar](https://www.linkedin.com/in/mohitkumhar/)
