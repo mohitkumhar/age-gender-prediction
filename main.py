@@ -1,4 +1,11 @@
 import cv2 as cv
+import tensorflow as tf
+
+
+model = tf.keras.models.load_model('model')
+
+
+
 
 # Load Haar cascade face detector
 face_cascade = cv.CascadeClassifier(cv.data.haarcascades + 'haarcascade_frontalface_default.xml')
