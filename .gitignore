@@ -1,3 +1,5 @@
 *.ipynb
 .venv/
 *.h5
+tempCodeRunnerFile.py
+tempCodeRunnerFile.python
